@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, eu me chamo Matheus e sou desenvolvedor front-end. apaixonado por criar interfaces intuitivas e busco sempre aprimorar a experiência do usuário.
-
+Hello, my name is Matheus and I am a front-end developer. passionate about creating intuitive interfaces and always seeking to improve the user experience.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mth_fl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mth_fl) 
