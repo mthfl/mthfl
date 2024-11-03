@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu me chamo Matheus e sou desenvolvedor front-end. Sou apaixonado por criar interfaces intuitivas e busco sempre aprimorar a experiência do usuário.
+Olá, eu me chamo Matheus e sou desenvolvedor front-end. apaixonado por criar interfaces intuitivas e busco sempre aprimorar a experiência do usuário.
 
 
 ## 🌐 Socials:
