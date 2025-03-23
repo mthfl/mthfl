@@ -15,7 +15,7 @@ jobs:
       - name: Get commit count
         id: commit_count
         run: |
-          COMMIT_COUNT=$(curl -s "https://api.github.com/users/SEU_USERNAME/events/public" | grep -c 'PushEvent')
+          COMMIT_COUNT=$(curl -s "https://api.github.com/users/mthfl/events/public" | grep -c 'PushEvent')
           echo "::set-output name=commit_count::$COMMIT_COUNT"
 
       - name: Update README
