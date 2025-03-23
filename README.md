@@ -20,7 +20,7 @@ Let's connect! You can find me on these platforms:
 Here are some statistics about my GitHub activity:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthfl&show_icons=true&theme=dark&hide_title=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mthfl&layout=compact&theme=dark)
 
 ---
 
