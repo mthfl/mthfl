@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hello! I'm **Matheus**, a passionate **Front-End Developer** with a strong focus on creating intuitive and user-friendly interfaces. I am dedicated to enhancing user experiences through clean, efficient, and modern web development practices. Constantly learning and evolving, I strive to stay updated with the latest technologies and trends in the industry.
+Hello! I'm Matheus, a passionate Full Stack Developer with a strong focus on building scalable, modern, and user-friendly digital solutions. I am dedicated to enhancing experiences through clean code, intuitive design, and efficient development practices. Constantly learning and evolving, I strive to stay ahead of industry trends and leverage technology to create impactful results.
 
 ---
 
